@@ -76,7 +76,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- in progress :smile: [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +141,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../issues/).
+Feel free to check the [issues page]().
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +159,7 @@ Give a ⭐️ if you like this project!
 
 I would like to thank:
 
-- [Microverse](microverse.org)
+- [Microverse]
 - Code Reviewers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
