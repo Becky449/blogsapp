@@ -141,7 +141,6 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
@@ -159,6 +158,7 @@ Give a ⭐️ if you like this project!
 I would like to thank:
 
 - [Microverse]
+
 - Code Reviewers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
